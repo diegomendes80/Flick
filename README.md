@@ -19,6 +19,20 @@ Um sistema para gerenciar filmes e séries, permitindo montar listas personaliza
 - **APIs de Filmes/Séries** - TMDb para obtenção de dados
 - **JSON** - Armazenamento de dados
 
+## 📸 Capturas de Tela
+
+### Tela Inicial  
+![Tela Inicial](screenshots/telainicial1.png)
+
+![Tela Inicial](screenshots/telainicial2.png)
+
+### Lista de Filmes  
+![Lista de Filmes](screenshots/minhaslistas.png)
+
+### Página de Avaliação  
+![Lista de Filmes](screenshots/avaliacao.png)
+
+
 ## 🚀 Como Executar o Projeto
 
 1. Clone este repositório:
