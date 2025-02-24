@@ -26,7 +26,7 @@ Um sistema para gerenciar filmes e séries, permitindo montar listas personaliza
 
 ![Tela Inicial](screenshots/telainicial2.png)
 
-### Lista de Filmes  
+### Lista de Favoritos  
 ![Lista de Filmes](screenshots/minhaslistas.png)
 
 ### Página de Avaliação  
