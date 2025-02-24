@@ -1,0 +1,106 @@
+[
+  {
+    "titulo": "Game of Thrones",
+    "genero": "Sci-Fi \u0026 Fantasy",
+    "anoLancamento": "2011",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/l2ezB41chGDjXcKo24lseuXYtKP.jpg",
+    "sinopse": "Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Dark",
+    "genero": "Crime",
+    "anoLancamento": "2017",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "sinopse": "Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Ruptura",
+    "genero": "Drama",
+    "anoLancamento": "2022",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg",
+    "sinopse": "Mark lidera uma equipe de funcionários de escritório cujas memórias foram divididas cirurgicamente entre a vida no trabalho e a vida pessoal. Quando um colega de trabalho misterioso aparece fora do escritório, ele começa uma jornada para descobrir a verdade sobre seu trabalho.",
+    "avaliacoes": [
+      {
+        "usuario": "diego",
+        "nota": 5.0,
+        "resenha": "mehor serie do momento"
+      }
+    ]
+  },
+  {
+    "titulo": "A Casa do Dragão",
+    "genero": "Sci-Fi \u0026 Fantasy",
+    "anoLancamento": "2022",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg",
+    "sinopse": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Lost",
+    "genero": "Mistério",
+    "anoLancamento": "2004",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/29qdZsx68Oakn1Kirkxob2Qn8w9.jpg",
+    "sinopse": "Os sobreviventes de um voo que estava milhas fora do curso caem em uma ilha que abriga um sistema de segurança monstruoso, uma série de abrigos subterrâneos e um grupo de sobrevivencialistas violentos escondidos nas sombras.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Friends",
+    "genero": "Comédia",
+    "anoLancamento": "1994",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+    "sinopse": "Seis jovens são unidos por laços familiares, românticos e, principalmente, de amizade, enquanto tentam vingar em Nova York. Rachel é a garota mimada que deixa o noivo no altar para viver com a amiga dos tempos de escola Monica, sistemática e apaixonada pela culinária. Monica é irmã de Ross, um paleontólogo que é abandonado pela esposa, que descobriu ser lésbica. Do outro lado do corredor do apartamento de Monica e Rachel, moram Joey, um ator frustrado, e Chandler, de profissão misteriosa. A turma é completa pela exótica Phoebe. ",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "INVENCÍVEL",
+    "genero": "Animação",
+    "anoLancamento": "2021",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/29myVHhdGoS735ZJ9hblY0pQ3K9.jpg",
+    "sinopse": "Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Black Mirror",
+    "genero": "Sci-Fi \u0026 Fantasy",
+    "anoLancamento": "2011",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/aCTL24B8ZuiI2osMwoUI5rqBXoF.jpg",
+    "sinopse": "Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Stranger Things",
+    "genero": "Drama",
+    "anoLancamento": "2016",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "sinopse": "Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Lupin",
+    "genero": "Drama",
+    "anoLancamento": "2007",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/9ff9TSnWCsodGFe4Lqs8mhV7paA.jpg",
+    "sinopse": "",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Matéria Escura",
+    "genero": "Sci-Fi \u0026 Fantasy",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg",
+    "sinopse": "Jason Dessen é sequestrado para uma versão alternativa de sua vida. Em busca de voltar para sua verdadeira família, ele embarca em uma jornada angustiante para salvá-los do inimigo mais terrível que se possa imaginar: ele mesmo.",
+    "avaliacoes": []
+  },
+  {
+    "qtdTemporadas": 0,
+    "showrunners": [],
+    "titulo": "Todo Mundo Odeia o Chris",
+    "genero": "Comédia",
+    "anoLancamento": "2005",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/dXyy1e3TJ5ut6DRCrQQT3TcsrGU.jpg",
+    "sinopse": "Para Chris, fazer 13 anos não tem nada de maravilhoso. Ele é o único negro da turma do ensino médio, onde tem uma educação medíocre. É amigo de Greg, e é frequentemente abusado por Joey Caruso. Ambos os pais trabalham e ele cuida de seus dois irmãos. Parece trágico, mas é hilário.",
+    "avaliacoes": []
+  }
+]

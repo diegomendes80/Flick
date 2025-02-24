@@ -1,0 +1,257 @@
+[
+  {
+    "titulo": "Moana 2",
+    "genero": "Animação",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/ulVUcVy919yt3IJKtmiJBzf4Kqt.jpg",
+    "sinopse": "Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
+    "avaliacoes": [
+      {
+        "usuario": "diego",
+        "nota": 4.0,
+        "resenha": "bom\t"
+      },
+      {
+        "usuario": "diego",
+        "nota": 4.0,
+        "resenha": "bom\t"
+      },
+      {
+        "usuario": "marcos",
+        "nota": 3.0,
+        "resenha": "bm\t\t\t\t\t"
+      },
+      {
+        "usuario": "diego",
+        "nota": 4.0,
+        "resenha": "bom\t"
+      },
+      {
+        "usuario": "diego",
+        "nota": 4.0,
+        "resenha": "bom\t"
+      },
+      {
+        "usuario": "marcos",
+        "nota": 3.0,
+        "resenha": "bm\t\t\t\t\t"
+      },
+      {
+        "usuario": "diego2",
+        "nota": 2.0,
+        "resenha": "ruim"
+      }
+    ]
+  },
+  {
+    "titulo": "Interestelar",
+    "genero": "Aventura",
+    "anoLancamento": "2014",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/6ricSDD83BClJsFdGB6x7cM0MFQ.jpg",
+    "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+    "avaliacoes": [
+      {
+        "usuario": "diego",
+        "nota": 5.0,
+        "resenha": "bom"
+      },
+      {
+        "usuario": "userguest123",
+        "nota": 5.0,
+        "resenha": "Melhor filme da vida! Uma obra prima da ficção executada por Christopher Nolan."
+      }
+    ]
+  },
+  {
+    "titulo": "O Brutalista",
+    "genero": "Drama",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg",
+    "sinopse": "Fugindo da Europa pós-guerra, um arquiteto visionário chega à América para reconstruir sua vida, carreira e casamento. Sozinho em um novo país estranho, ele se estabelece na Pensilvânia, onde um rico e proeminente industrial reconhece seu talento.",
+    "avaliacoes": [
+      {
+        "usuario": "diego",
+        "nota": 3.0,
+        "resenha": "bom\t"
+      },
+      {
+        "usuario": "diego",
+        "nota": 3.0,
+        "resenha": "bom\t"
+      },
+      {
+        "usuario": "diego",
+        "nota": 10.0,
+        "resenha": ""
+      },
+      {
+        "usuario": "diego",
+        "nota": 3.0,
+        "resenha": "bom\t"
+      },
+      {
+        "usuario": "diego",
+        "nota": 3.0,
+        "resenha": "bom\t"
+      },
+      {
+        "usuario": "diego",
+        "nota": 10.0,
+        "resenha": ""
+      },
+      {
+        "usuario": "diefgo",
+        "nota": 4.0,
+        "resenha": "s"
+      }
+    ]
+  },
+  {
+    "titulo": "Ainda Estou Aqui",
+    "genero": "Drama",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/zNAw7jK8bwCK56rIW676pdgkwhd.jpg",
+    "sinopse": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva – Rubens, Eunice e seus cinco filhos – vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens Paiva é levado por militares à paisana e desaparece.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Sonic 3: O Filme",
+    "genero": "Ação",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg",
+    "sinopse": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.",
+    "avaliacoes": [
+      {
+        "usuario": "d",
+        "nota": 4.0,
+        "resenha": ""
+      }
+    ]
+  },
+  {
+    "titulo": "A Substância",
+    "genero": "Terror",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+    "sinopse": "Já sonhou com uma versão melhor de si mesmo? Continuará sendo você, só que melhor em todos os sentidos. Então, você deveria experimentar este novo produto: A Substância. MUDOU A MINHA VIDA.",
+    "avaliacoes": [
+      {
+        "usuario": "d",
+        "nota": 5.0,
+        "resenha": ""
+      }
+    ]
+  },
+  {
+    "titulo": "Flow",
+    "genero": "Animação",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/66Y6qdAmCTtzrtGSPrwHihIZP0W.jpg",
+    "sinopse": "Gato é um animal solitário, mas quando seu lar é destruído por uma grande inundação, ele encontra refúgio em um barco habitado por diversas espécies, tendo que se juntar a elas apesar das diferenças.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Sing - Quem Canta Seus Males Espanta",
+    "genero": "Animação",
+    "anoLancamento": "2016",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/vMWimvNGXKggoeEHtSAQDTkBikd.jpg",
+    "sinopse": "Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro. A disputa movimenta o mundo animal e promove a revelação de diversos talentos da cidade, todos de olho nos 15 minutos de fama e US$ 100 mil dólares de prêmio.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Conclave",
+    "genero": "Drama",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg",
+    "sinopse": "Após a morte inesperada do atual pontífice, o Cardeal Lawrence é encarregado de conduzir esse processo confidencial. Os líderes mais poderosos da Igreja Católica de todo o mundo se reúnem nos corredores do Vaticano para participar da seleção, cada um com suas próprias ambições. Lawrence se vê no centro de uma conspiração, desvendando segredos que ameaçam não apenas sua fé, mas também as fundações da Igreja.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Mufasa: O Rei Leão",
+    "genero": "Aventura",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/xjj5n62FTqT4jLX8LO0sSyI0MGK.jpg",
+    "sinopse": "Mufasa, um filhote órfão, perdido e sozinho, conhece um simpático leão chamado Taka, herdeiro de uma linhagem real. O encontro ao acaso dá início a uma grande jornada de um grupo extraordinário de deslocados em busca de seu destino, além de revelar a ascensão de um dos maiores reis das Terras do Orgulho.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Tropa de Elite",
+    "genero": "Drama",
+    "anoLancamento": "2007",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg",
+    "sinopse": "Rio de Janeiro, 1997. Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar uma das equipes que tem como missão \"apaziguar\" o Morro do Turano por um motivo que ele considera insensato. Mas ele tem que cumprir as ordens enquanto procura por um substituto. Sua mulher, Rosane, está no final da gravidez e todos os dias lhe pede para sair da linha de frente do batalhão. Pressionado, o capitão sente os efeitos do estresse.Neste clima, é chamado para mais uma emergência num morro. Em meio a um tiroteio em um baile funk, Nascimento e sua equipe têm que resgatar dois aspirantes a oficiais da PM: Neto e Matias. Ansiosos por entrar em ação e impressionados com a eficiência de seus salvadores, os dois se candidatam ao curso de formação da Tropa de Elite.",
+    "avaliacoes": [
+      {
+        "usuario": "diego",
+        "nota": 5.0,
+        "resenha": "bom"
+      },
+      {
+        "usuario": "diego",
+        "nota": 5.0,
+        "resenha": "bom"
+      },
+      {
+        "usuario": "julio",
+        "nota": 3.0,
+        "resenha": "bom\t"
+      }
+    ]
+  },
+  {
+    "titulo": "Moana",
+    "genero": "Aventura",
+    "anoLancamento": "2026",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/ys0jZr0quHERDUEoCboGQEKPvgQ.jpg",
+    "sinopse": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 \u0027Moana\u0027",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Tropa de Elite 2: O Inimigo Agora é Outro",
+    "genero": "Drama",
+    "anoLancamento": "2010",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/xBv3KuOgaucTMVWRleBm9usrCc6.jpg",
+    "sinopse": "O destino da cidade do Rio de Janeiro e de Nascimento se cruzam em \"Tropa de Elite 2\", quando suas obrigações de pai se chocam com as de policial. Mais maduro, estratégico e solitário, o agora Coronel Nascimento faz o bope crescer e coloca o tráfico de drogas de joelho. Isto apenas para descobrir que na segurança pública do Rio de Janeiro nada é o que parece. O sistema se reinventa e descobre como lucrar sem o intermédio do tráfico. Em perseguição ao caminho trilhado pelo sistema, Nascimento vai além dos limites do quartel, revelando as ligações das milícias com o Estado. E o preço por essa descoberta é alto: o inimigo agora é outro.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Sonic 2: O Filme",
+    "genero": "Ação",
+    "anoLancamento": "2022",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/aT2vdnR3qifI21f7fHTqYW5iAAz.jpg",
+    "sinopse": "Depois de se estabelecer em Green Hills, Sonic está pronto para mais liberdade e deixar sua marca como um herói, e Tom e Maddie concordam em deixá-lo em casa enquanto vão de férias. Mas, assim que eles se foram, Dr. Robotnik volta, desta vez com um novo parceiro, Knuckles, em busca de uma esmeralda que tem o poder de construir e destruir civilizações. Sonic se une a um novo companheiro, Tails, e juntos eles embarcam em uma jornada para encontrar a esmeralda antes que ela caia nas mãos erradas.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Vingadores: Guerra Infinita",
+    "genero": "Aventura",
+    "anoLancamento": "2018",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg",
+    "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "Batman: O Cavaleiro das Trevas",
+    "genero": "Drama",
+    "anoLancamento": "2008",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+    "sinopse": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "O Senhor dos Anéis: A Guerra dos Rohirrim",
+    "genero": "Animação",
+    "anoLancamento": "2024",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/aLOROyUuOum0zztqPiJDCFgFMcw.jpg",
+    "sinopse": "183 anos antes dos eventos narrados na trilogia original, um ataque repentino de Wulf, um inteligente e implacável lorde Dunlending em busca de vingança pela morte de seu pai, força Helm Hammerhand e seu povo a fazer uma ousada última resistência na antiga fortaleza de Hornburg. Encontrando-se em uma situação cada vez mais desesperadora, Héra, a filha de Helm, deve reunir a vontade de liderar a resistência contra um inimigo mortal que pretende destruí-los totalmente.",
+    "avaliacoes": []
+  },
+  {
+    "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+    "genero": "Aventura",
+    "anoLancamento": "2003",
+    "urlCapa": "https://image.tmdb.org/t/p/w500/egSO4klmc9pnI1CNnHoYKV70XKI.jpg",
+    "sinopse": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+    "avaliacoes": []
+  }
+]
